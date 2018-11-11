@@ -1,0 +1,3 @@
+package rqk.fmas.model
+
+data class EventResponse(val events: List<Event>)
